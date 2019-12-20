@@ -9,10 +9,10 @@ npm i @tolga-z/umd
 #### If you want to test the node-fetch, just type in terminal: "node test" ####
 
 ## There are 4 diffirent methods
-**1. Get**
-**2. Post**
-**3. Put**
-**4. Delete**
+### **1. Get** ###
+### **2. Post** ###
+### **3. Put** ###
+### **4. Delete** ###
 
 #### JS is written in Jquery. ####
 #### All are set in order from top to bottom in the umd.js file. ####
