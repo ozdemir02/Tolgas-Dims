@@ -8,12 +8,12 @@ npm i @tolga-z/umd
 #### You can set the api you want to fetch from, in the "Test.js" file. 
 ```js
 if (typeof exports === "object") {
-  var nodeFetch = require("@benjics/nodefetch");
+  var nodeFetch = require("@tolga-z/umd");
 }
  
 nodeFetch.init({
-  address: "https://YOUR.API/LINK", // Here you set your link to your fetch address
-  key: "1234" // Here you set your key to your api If you have one
+  address: "https://YOUR.API/LINK", // Link fetch adress
+  key: "1234" // Key Api
 });
  
 nodeFetch.get("1").then(result => console.log(result));
