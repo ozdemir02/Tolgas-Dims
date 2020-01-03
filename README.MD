@@ -1,5 +1,8 @@
 # UMD Test
 ![](https://img.shields.io/npm/v/@tolga-z/umd?label=Npm%20version&style=flat-square)
+![](https://img.shields.io/bundlephobia/min/@tolga-z/umd?label=Install%20Size&style=flat-square)
+![](https://img.shields.io/npm/l/@tolga-z/umd?style=flat-square)
+![](https://img.shields.io/jsdelivr/npm/hy/@tolga-z/umd?label=Downloads&style=flat-square)
 ## How to install
 ```bash
 npm i @tolga-z/umd
