@@ -1,5 +1,5 @@
 # UMD Test
-
+![](https://img.shields.io/npm/v/@tolga-z/umd?label=Npm%20version&style=flat-square)
 ## How to install
 ```bash
 npm i @tolga-z/umd
